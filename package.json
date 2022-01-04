@@ -1,0 +1,15 @@
+{
+  "name": "sweetdev-ui-kit",
+  "version": "1.0.0",
+  "description": "Sweetdev Ui Kit is a Free libey of Web Compnents make for rapid development",
+  "main": "index.js",
+  "scripts": {
+    "test": "sweet-ui-test"
+  },
+  "keywords": [
+    "Web",
+    "Components"
+  ],
+  "author": "Aleksandar Manasiev",
+  "license": "ISC"
+}
